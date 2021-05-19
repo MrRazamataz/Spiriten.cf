@@ -168,7 +168,7 @@ business so probably around there.
 servers are hosted. They do have reports of mass Discord bot messages in server host Discords so likely a very scummy company. Avoid!
 
 | [Cyperhost](https://cyperhost.com/minecraft) : Cyperhost offers hosting for $1.75 per GB of ram with a Ryzen 7 3800X. They have 2 locations, one in Beauhamois - Canada
-and one in London - UK. After a CEO chnage they have fixed all the issues I had too, so it honestly looks like a nice host.
+and one in London - UK. After a CEO change they have fixed all the issues I had too, so it honestly looks like a nice host.
 
 | [Daemex](https://billing.daemex.io/cart.php?gid=1) : Currently in a Beta so free servers (if approved by staff). You get 4GB of ram with an unknown CPU. There are 4 USA
 locations, 3 Europe locations, 4 Asia locations, one Africa location, one South America location, and one Australia location. I'm just a bit confused more than anything,
