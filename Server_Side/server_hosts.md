@@ -486,7 +486,7 @@ offer hosting in Germany and New York. However, they have support that people ha
 
 | [MAMMOTH esports](https://gameservers.mmesports.com.au/cart.php?a=confproduct&i=0) : MAMMOTH esports is an Australian based host offering hosting for about $3.80 per GB of
 ram with an unknown CPU. Their only location is Victoria - Australia. Storage is also limited to 10GB on a hard drive by default, which may cause you to run into issues ($3.80 
-per extra 10GB and $3.80 for an upgrade to an NVMe drive). I also love how one of the options preselected is misspelled. Oh boy, how I love "Normal Priority". I'd avoid.
+per extra 10GB and $3.80 for an upgrade to an NVMe drive). I also love how one of the options preselected is misspelled. Oh boy, how I love "Normal Prioity". I'd avoid.
 
 
 | [mTxServ](https://mtxserv.com/minecraft-server-hosting) : mTxServ offers hosting for $2 per GB of ram (plans starting at 3GB) with a Ryzen 3800X. They have 4 European
