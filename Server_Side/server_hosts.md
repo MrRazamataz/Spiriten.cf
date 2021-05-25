@@ -192,7 +192,8 @@ out to make it a host you would want to use other than it having locations in Au
 | [DedicatedMC](https://dedicatedmc.io/minecraft) : DedicatedMC is not a host I'd recommend. They have a $2 per GB of ram plan running on a Xeon E5-2690 (starting
 at 4GB plans), a $2.33 per GB of ram plan running on the Ryzen 5 3600 (starting at 6GB plans), a $3 per GB of ram plan running on the Ryzen 5 3600/Ryzen 9 3950x
 (starting at 8GB plans) and a $3.60 per GB of ram plan running on an i9-9900k/Ryzen 9 3900x (starting at 10GB plans). Their prices seem a bit overpriced, but that's my opinion. 
-They have plans in Oregon, Los Angeles, New Jersey, New York, Germany, Finland, and Sydney.
+I would also like to note that a member of their team, Tehlo, seems a bit snarky and rude. Not great to have a staff member like that if you need help. They have plans in 
+Oregon, Los Angeles, New Jersey, New York, Germany, Finland, and Sydney.
 
 | [Demonbolt Hosting](https://my.demonbolthost.com/store/minecraft) : Demonbolt Hosting offers hosting for $1.25 per GB of ram with i7-6700K's in their North America
 location and Ryzen 5 3600's in their Europe location. This pricing isn't that bad honestly, but they do soft cap the storage semi low (20GB on all plans under 6GB).
