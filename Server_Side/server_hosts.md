@@ -34,7 +34,7 @@ to the lack of transparency at their pricing.
 Xeon E5 CPU and Premium costs around $2.35 per GB of ram with an unknown Ryzen 7 CPU. Their plans are hosted somewhere in Germany. Please note: this information may be
 off. I do not speak Norwegian.
 
-|[AnjayHosting](https://anjay.id/cart.php?a=confproduct&i=0) : AnjayHosting offers server hosting for about $6.85 per GB of ram with an unknown Skylake Xeon CPU (can range
+| [AnjayHosting](https://anjay.id/cart.php?a=confproduct&i=0) : AnjayHosting offers server hosting for about $6.85 per GB of ram with an unknown Skylake Xeon CPU (can range
 anywhere from a 2015 CPU to a 2018 CPU). Their only location is in Singapore. I can't really tell you much else as the site is in Indonesian.
 
 | [AnvilNode](https://www.anvilnode.com/minecraft) : Anvilnode offers hosting at $4 per GB of ram on unnamed Xeon CPUs. They have a USA location, a France
