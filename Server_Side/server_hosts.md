@@ -110,7 +110,7 @@ an Australia location, and a Singapore location. For $5 per GB of ram, I'd reall
 a Xeon E-2136, an i7-7700k, or a Ryzen 7 3800x. They do have tons of locations including across North America, Europe, Singapore, Tokyo, and Sydney so that's definitely a bonus. The CPUs used for the price isn't great at all though.
 
 | [Clovux](https://clovux.net/mc/) : Clovux is a host charging $2 per GB of ram on i7-6700k CPUs. They offer locations in France and Canada. I personally
-wouldn't recommend it as that CPU is quite a bit outdated (6 years old at this point) and will not provide optimal performance. P2OgA2r%%
+wouldn't recommend it as that CPU is quite a bit outdated (6 years old at this point) and will not provide optimal performance.
 
 | [ClanHost](https://www.clanhost.com.au/whmcs/cart.php?a=confproduct&i=1) : ClanHost is an Australian server host running on unknown CPUs with its plan starting
 at about $5.75 per GB of ram. The odd thing is that as you purchase a larger server (more ram) the prices per GB raises which disincentivizes buying more
