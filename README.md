@@ -6,7 +6,7 @@ should know about. This includes plugin lists, a server jar list,
 and more.
 
 If you are looking for a list of things to assist you instead of just
-a list of everything I could find please check out [AnythingMC](https://github.com/Anything-Minecraft-Team/anything-minecraft/tree/main/tutorials/en_us).
+a list of everything I could find please check out [AnythingMC](https://github.com/Anything-Minecraft-Team/anything-minecraft).
 
 Please contact me at sprit#0363 on Discord if there is anything that
 should be changed.
