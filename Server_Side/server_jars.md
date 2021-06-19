@@ -10,7 +10,7 @@ This list I am compiling here covers all of the different Minecraft Server Jars 
 # Bukkit | A-Z
 Server software that runs on the Bukkit API (non-Hybrid servers)
 
-**If next to the name of the jar I have added these double astericks it is because that the developer of that jar mass produces resources. This 
+**If next to the name of the jar I have added these double asterisks it is because that the developer of that jar mass produces resources. This 
 leads to a lack of support, lack of updates, and quick abandonement.
   
 [AirPlane](https://github.com/Technove/Airplane) : AirPlane is a 1.16.x Tuinity fork attempting to create the top performing fork.
@@ -164,7 +164,7 @@ features/optimizations.
 [xSpigot](https://www.mc-market.org/resources/11411/) : xSpigot is a 1.7.10 TacoSpigot fork with custom knockback profiles, togglable things like mob AI, and some general 
 features/optimizations aimed at HCF.
 
-[Yatopia](https://github.com/YatopiaMC/Yatopia) : DO NOT USE. Yatopia is a 1.15.2 to 1.16.5 Tuinity fork aimed at top performance. To do this it combines optimizations from 
+[Yatopia](https://github.com/YatopiaMC/Yatopia) : **Now thankfully discontinued.** DO NOT USE. Yatopia is a 1.15.2 to 1.16.5 Tuinity fork aimed at top performance. To do this it combines optimizations from 
 various Paper forks and Fabric performance mods and hopes it works. They will release completely broken server jars that can corrupt your world. AVOID YATOPIA.
 
 [zSpigot](https://www.mc-market.org/resources/7198/) : zSpigot was a 1.7.10 Paper fork with custom knockback profiles, a built in server benchmarker, and various HCF/PvP 
