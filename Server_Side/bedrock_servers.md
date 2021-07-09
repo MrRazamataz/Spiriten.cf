@@ -1,6 +1,7 @@
-# Server Jars
+# Server Software
+## Work in progress -MrRazamataz
 
-The core of a Minecraft server is the Jar it runs on. This is the software that the server is running. Depending on which you use your 
+The core of a Minecraft server is the software/ it runs on. This is the software that the server is running. Depending on which you use your 
 performance, server abilities, and support may change.
 
 This list I am compiling here covers all of the different Minecraft Bedrock Server Softwares I have encountered and links to them too.
