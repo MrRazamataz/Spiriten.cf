@@ -952,8 +952,7 @@ locations in both Chigaco, Illinois and in London, UK. I've heard some good stuf
 hour refund window, and partnerships with Tebex and ReadyArtShop) so they really aren't a bad choice.
 
 | [Wither Hosting](https://billing.witherhosting.com/store/minecraft-basic) : Wither Hosting offers Minecraft Server Hosting for $0.75 per GB of ram on
-an unknown CPU. It's most likely a server CPU like a Xeon as they dedicate 8 vCores when you buy their Wither plan (20GB ram). I have nothing else to
-say about the host, it honestly looks pretty nice and I might end up using it.
+a mix of higher end CPUs, look [here](https://witherhosting.com/specs.html) for exact node specs. I have nothing else to say about the host, it honestly looks pretty nice and I might end up using it, with cheap prices and decent specs. 
 
 | [WitherNode](https://withernode.com/minecraft-hosting) : WitherNode has two plans, Basic with an unknown CPU charging about $2.40 per GB of ram (plans starting at
 2GB) and Pro with an unknown CPU charging about $4.80 per GB of ram (plans starting at 2GB). For both plans they have 2 locations, one in North America and one in Europe.
